@@ -96,7 +96,7 @@ Make sure you have:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Exnlab/House-Price-Prediction.git
+git clone https://github.com/Harshuuu21/House_Price_Prediction
 cd House-Price-Prediction
 ```
 
